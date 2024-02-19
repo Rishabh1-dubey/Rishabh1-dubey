@@ -7,7 +7,7 @@
 🌍  I'm based in Mumbai, maharashtra, India.
 - 📫 How to reach me **rishabhdubey006@gmail.com**
 
--🧠  I'm learning Front-end Web development
+- 🧠  I'm learning Front-end Web development
 
 - ⚡ Fun fact **I think i am funny**
 
