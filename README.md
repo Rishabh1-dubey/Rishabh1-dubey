@@ -1,11 +1,11 @@
 ![logo](https://github.com/Rishabh1-dubey/Rishabh1-dubey/blob/main/Rishabh%20Dubey_1.png)
 <h1 align="center">Hi 👋, I'm Rishabh Dubey</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate front-end developer from India</h3>
 <img align ="right" alt="coding" width="400" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh1-dubey&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh1-dubey" /> </p>
-
+🌍  I'm based in Mumbai, maharashtra, India.
 - 📫 How to reach me **rishabhdubey006@gmail.com**
-
+-🧠  I'm learning Front-end Web development
 - ⚡ Fun fact **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
