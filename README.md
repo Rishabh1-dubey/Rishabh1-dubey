@@ -5,9 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh1-dubey&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh1-dubey" /> </p>
 
 🌍  I'm based in Mumbai, maharashtra, India.
-
-- 📫 How to reach me **rishabhdubey006@gmail.com**
-- 
+- 📫 How to reach me **rishabhdubey006@gmail.com** 
 -🧠  I'm learning Front-end Web development
 
 - ⚡ Fun fact **I think i am funny**
