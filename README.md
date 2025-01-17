@@ -8,7 +8,7 @@
 
 - 🌍  I'm based in Mumbai, maharashtra, India.
 - 📫 How to reach me **rishabhdubey006@gmail.com**
--🧠  I'm learning Front-end Web development
+- 🧠  I'm learning NextJs
 - ⚡ Fun fact **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
